@@ -1,19 +1,25 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Melia Winegar's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Melia Winegar
+Data Scientist, Accountant, BYU-Idaho Student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="win23023@byui.edu">win23023@byui.edu</a>
+| <a href="www.linkedin.com/in/melia-winegar">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Winegar Real Estate Group LLC                                                                          February 2024 - Present
+Bookkeeping   
+Heber City,Utah                                                                         801.854.8192
+
+•	Developing skills in reconciling bank statements                                                                   
+•	Pursuing proficiency in bookkeeping utilizing QuickBooks software
+•	Gaining expertise in invoicing processes and managing accounts receivable
 
 ### Specialized in
 
